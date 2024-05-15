@@ -56,6 +56,7 @@ More free resources can be found on [codeburst.io](https://codeburst.io)
   * Coursera Course (Not CS Specific) - [Learning how to learn](https://www.coursera.org/learn/learning-how-to-learn)
   * Repetition, Repetition, Repetition - [Reddit Discussion on study techniques](https://www.reddit.com/r/learnprogramming/comments/5pyx5t/a_beginners_trick_i_learned_way_too_late_in_the/)
   * What technologies to learn and strategies to learn them - [How to learn web development](https://codetheweb.blog/2017/10/04/how-to-learn-web-development/)
+  * Step-by-step guide to learn - [How to become a web developer](https://www.scaler.com/blog/how-to-become-a-web-developer/)
 
 ---
 ### What is the Single most useful CS Bookmark you have?
@@ -189,6 +190,7 @@ More free resources can be found on [codeburst.io](https://codeburst.io)
 ### Full Stack Tutorials
 
 * [Intro to Back End Web Development](https://www.udacity.com/course/intro-to-backend--ud171)
+* [Intro to Front End Web Development](https://www.scaler.com/blog/front-end-developer/)
 * [Deploying Applications with Heroku](https://www.udacity.com/course/deploying-applications-with-heroku--ud272)
 * [Client Server Communication](https://www.udacity.com/course/client-server-communication--ud897)
 * [Serverless Stack](http://serverless-stack.com/) is a comprehensive guide to creating full-stack serverless applications. Create a note taking app from scratch using React.js, AWS Lambda, API Gateway, DynamoDB, and Cognito.
