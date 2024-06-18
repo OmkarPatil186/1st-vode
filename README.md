@@ -392,6 +392,7 @@ More free resources can be found on [codeburst.io](https://codeburst.io)
   * [Salary Negotiations and how not to set a bunch of money on fire (Medium)](https://medium.freecodecamp.com/salary-negotiation-how-not-to-set-a-bunch-of-money-on-fire-605aabbaf84b#.75xz4zut8)
   * [10 Rules for negotiating a job offer (Medium)](https://medium.freecodecamp.com/ten-rules-for-negotiating-a-job-offer-ee17cccbdab6#.g8u1wnyw8)
   * [How not to bomb your offer negotiation (Medium)](https://medium.freecodecamp.com/how-not-to-bomb-your-offer-negotiation-c46bb9bc7dea#.vdfc82rl7)
+  * [Breaking Down Software Developer Salaries (Scaler Blogs)](https://www.scaler.com/blog/sde-1-vs-sde-2-vs-sde-3-understand-sde-level-differences/#sde-levels-salary-comparison)
   
 ---
 ### Assorted Links
